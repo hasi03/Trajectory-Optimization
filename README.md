@@ -3,7 +3,7 @@ Exploring various numerical methods to solve orbital mechanics of satellites.
 
 
 ## Overview
-This project is focused on solving the orbital equations of motion for the Henon-Heiles system, a classic problem in astrophysics and chaos theory. We employ three different numerical methods to integrate these equations and present visual comparisons of the results.
+This project is focused on solving the orbital equations of motion for the Henon-Heiles system, a classic problem in astrophysics and chaos theory. These equations of motions are not analytically solvable. We employ three different numerical methods to integrate these equations and present visual comparisons of the results. Also we explore how different initial conditions changes the satellite's orbits. 
 
 ## Methods Used
 - **Verlet Integration**: A simple yet powerful method for integrating Newton's equations of motion, which is particularly useful for conservative systems.
